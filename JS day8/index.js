@@ -12,7 +12,7 @@ isEvenOrOdd(4591);
 isEvenOrOdd(4500);
 
 //Q2. Find the largest of two number
-function findLargest(num1,num2){
+function find_Largest(num1,num2){
    if(num1==num2){
       console.log("Both numbers are equal");
    } else if(num1>num2){
@@ -23,9 +23,9 @@ function findLargest(num1,num2){
    }
 }
 
-findLargest(100,1009);
-findLargest(100,100);
-findLargest(1010,1009);
+find_Largest(100,1009);
+find_Largest(100,100);
+find_Largest(1010,1009);
 
 //Q3. Find the largest of three number.
 
